@@ -1,2 +1,3 @@
+# payment-app-simple
 
-## Build a basic version of PayTM
+A simple payments app with basic functionalities
